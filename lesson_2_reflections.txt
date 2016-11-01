@@ -5,3 +5,7 @@ Initializing the repository creates the .git folder and sets up the repo and mas
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 The staging area is like a bridge between your working directory and the repository.  It allows you collect a number of changes that can be committed as one revision.  It also allows you the ability to continue working on some changes while only staging and ultimately committing the changes you desire.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+You can add any number of files in order to capture a single logical change in the staging area.  You can also choose not to add certain changes to the staging area if they are not part of the logical change.  
