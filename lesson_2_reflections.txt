@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+Initializing the repository creates the .git folder and sets up the repo and master branch in preparation for version tracking.  The repo needs to be initialized to set up the necessary files that will allow for future tracking.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+The staging area is like a bridge between your working directory and the repository.  It allows you collect a number of changes that can be committed as one revision.  It also allows you the ability to continue working on some changes while only staging and ultimately committing the changes you desire.
