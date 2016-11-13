@@ -1,1 +1,5 @@
 When would you want to create a remote repository rather than keeping all your work local?
+
+If you want your work to be viewable by other users or if you want to be able to access and contribute to your work from multiple computers that a remote repository would be essential.  Also, creating a remote repository provides some mechanism of backup in case something should go wrong with your local machine.  
+
+One might not want to create a remote repository if the project is private and there is no desire to ever share it, or if security is a concern.  This is also the case if there is not internet access which would force the user to work exclusively local.
